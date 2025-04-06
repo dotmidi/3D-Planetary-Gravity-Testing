@@ -24,7 +24,7 @@ public class Attractable : MonoBehaviour
         else
         {
             attractableRigidbody.useGravity = true;
-            transform.rotation = Quaternion.identity;
+            // transform.rotation = Quaternion.identity;
         }
     }
 
